@@ -7,7 +7,7 @@ body {
 }
 
 .header {
-    background-color: #000;
+    background-color: #8b77fe;
     padding: 20px;
     position: fixed;
     width: 100%;
@@ -17,7 +17,7 @@ body {
 }
 
 .header.scrolled {
-    background-color: #333;
+    background-color: blue;
 }
 
 .nav {
@@ -58,7 +58,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: url('nft-free-2.jpg.optimal-2-1080x675.jpg') no-repeat center center/cover;
+    background: url('concept-marche-boursier-degrade_23-2149166910.avif') no-repeat center center/cover;
     text-align: center;
     padding-top: 80px;
 }
